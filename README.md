@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabhat Potdar
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning C++ and Java 
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning C++ , webDevlopment  and Java 
 - 💞️ I’m looking to collaborate on Devlopment
 - 📫 How to reach me prabhatpotdar789@gmail.com
 
